@@ -1,21 +1,34 @@
-MIT License
+WADDAH PROPRIETARY LICENSE
+ALL RIGHTS RESERVED
 
-Copyright (c) 2026 Alan Syahmi bin Sani
+Copyright (c) 2026 Alan Syahmi bin Sani.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The Waddah name, وَضَّاح wordmark, visual identity, source code, documentation,
+designs, specifications, and other materials in this repository (collectively,
+the "Materials") are proprietary and are protected by applicable intellectual
+property laws, except for third-party materials that are identified as such
+and remain subject to their own licences.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+No permission or licence is granted to use, reproduce, modify, adapt, publish,
+distribute, sublicense, sell, commercially exploit, or create derivative works
+from the Materials, in whole or in part, without prior written permission from
+the copyright holder.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may view the Materials through GitHub's website to the extent permitted by
+GitHub's Terms of Service. This limited access does not grant any additional
+rights to use, copy, modify, or distribute the Materials outside the rights
+expressly provided by GitHub's Terms of Service.
+
+The Materials are provided "AS IS", without warranties or conditions of any
+kind, express or implied, to the fullest extent permitted by applicable law.
+To the fullest extent permitted by applicable law, the copyright holder shall
+not be liable for any claim, damages, or other liability arising from or in
+connection with the Materials or their use.
+
+For permissions or commercial licensing enquiries, contact the copyright
+holder through the contact details published on the Waddah project website or
+GitHub profile.
+
+This notice does not replace or override the terms of any third-party
+components, fonts, datasets, or other materials included in or referenced by
+the project. Those materials remain subject to their respective licences.
