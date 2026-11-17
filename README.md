@@ -26,6 +26,8 @@ This repository contains the product and engineering blueprint. The application 
 - [Rendering and export](docs/RENDERING.md)
 - [Roadmap](docs/ROADMAP.md)
 - [Testing strategy](docs/TESTING.md)
+- [UX and visual design](docs/UX_SPEC.md)
+- [Decision log](docs/DECISIONS.md)
 - [Codex implementation guide](AGENTS.md)
 
 ## Planned technology
