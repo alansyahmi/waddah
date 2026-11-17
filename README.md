@@ -51,3 +51,9 @@ Cloudflare Pages, Workers, D1, and R2 are candidates for the later hosted produc
 The initial implementation should begin with the browser application and a small number of well-defined core modules. Do not create every proposed package as a separately buildable workspace until real code boundaries justify it.
 
 See [AGENTS.md](AGENTS.md) before asking an agent to implement a milestone.
+
+## Copyright and permissions
+
+Waddah is proprietary software and is **not open source**. All rights are reserved by the copyright holder unless a separate written licence says otherwise. No permission is granted to copy, modify, redistribute, or commercially exploit this repository's materials. See [LICENSE](LICENSE) for the full notice.
+
+Third-party dependencies, fonts, datasets, and other external assets retain their own licences and terms. A public GitHub repository may still be viewed and forked within the limited rights provided by GitHub's Terms of Service; that does not grant broader reuse rights.
